@@ -1,0 +1,4 @@
+  #sekcia zaoberajúca sa buildovaním web stránky
+  [build]
+    #priečinok, ktorý sa má zverejniť
+    publish = "dist"
